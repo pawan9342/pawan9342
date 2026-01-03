@@ -10,7 +10,7 @@ Beyond development, I’m deeply interested in the **SaaS ecosystem**—how idea
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,figma,vscode,git,github,bootstrap,pip)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,python,c,php,figma,vscode,git,github,bootstrap,pip)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=pawan9342&theme=dark&hide_border=true)<br/>
