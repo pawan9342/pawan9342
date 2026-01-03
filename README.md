@@ -19,4 +19,4 @@ Beyond development, I’m deeply interested in the **SaaS ecosystem**—how idea
 
 
 ## 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/pawan-khatiwada-997930363/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawan-khatiwada-997930363/)
